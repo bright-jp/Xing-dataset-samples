@@ -1,50 +1,49 @@
 # Xing-dataset-samples
 
-<h2>A sample dataset of 1001 Xing social network</h2>
+<h2>Xingソーシャルネットワークの1001件のサンプルデータセット</h2>
 
 ![Xing dataset header](https://github.com/luminati-io/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
 
-A Xing dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+1000件を超えるレコードを含むXingデータセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
-<h2>Some of the data points that are included in the Xing dataset:</h2>
+<h2>Xingデータセットに含まれるデータポイントの一部：</h2>
 
-* ```account_id```: A unique identifier for the user's account
-* ```familyName```: The user's family name or surname
-* ```gender```: The user's gender
-* ```membership```: Membership information
-* ```country_code```: The country code
-* ```experience```: Array containing information about the user's work experience. Each item in the array includes details such as current job, company, job title, start date, end date, company page, company logo, and description
-* ```education```: Contains information about the user's educational background
-* ```languages```: Indicates the languages known by the user and their proficiency levels
-* ```groups```: Represents the groups or communities the user is a part of
-* ```interests```: Specifies the user's interests
+* ```account_id```: ユーザーアカウントの一意の識別子です
+* ```familyName```: ユーザーの姓です
+* ```gender```: ユーザーの性別です
+* ```membership```: メンバーシップ情報です
+* ```country_code```: 国コードです
+* ```experience```: ユーザーの職務経験に関する情報を含む配列です。配列内の各項目には、現在の職種、会社、役職、開始日、終了日、会社ページ、会社ロゴ、説明などの詳細が含まれます
+* ```education```: ユーザーの学歴に関する情報を含みます
+* ```languages```: ユーザーが使用できる言語とその習熟度を示します
+* ```groups```: ユーザーが参加しているグループまたはコミュニティを表します
+* ```interests```: ユーザーの興味・関心を指定します
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Xing social network"
-dataset which includes more than <b>9.8M records</b>.
+これは「Xing social network」データセットから派生したサンプルサブセットであり、当該データセットには<b>9.8M件以上のレコード</b>が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式：<b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルを .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信タイプのオプション：<b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度：<b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータ強化：<b>リクエストに基づきます。</b>
 
-<b>[Get the full Xing dataset](https://brightdata.com/products/datasets/xing)</b>.
+<b>[Xingの全データセットを入手する](https://brightdata.jp/products/datasets/xing)</b>。
 
-<h2>What are the Xing datasets use cases?</h2>
+<h2>Xingデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Lead Generation</h3>
-Enhance lead generation and streamline CRM processes by utilizing up-to-date job and company data from Xing.
+<h3>1. リード獲得</h3>
+Xingの最新の職務および企業データを活用して、リード獲得を強化し、CRMプロセスを効率化します。
 
-<h3>2. Investment Opportunities</h3>
-Identify emerging business opportunities and evaluate potential investment candidates by monitoring movements within and between German companies.
+<h3>2. 投資機会</h3>
+ドイツ企業内およびドイツ企業間の動きをモニタリングすることで、新たなビジネス機会を特定し、潜在的な投資候補を評価します。
 
-<h3>3. Recruit Top Talent</h3>
-Identify and track top talent by analyzing skills, education, and experience profiles of professionals from German-speaking countries.
+<h3>3. 優秀な人材の採用</h3>
+ドイツ語圏のプロフェッショナルのスキル、学歴、経験プロファイルを分析することで、優秀な人材を特定し追跡します。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的課題を推進する主要な学術部門および研究者、NGOおよびNPOに対し、Bright Dataの<b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b>と<b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b>へのアクセスを提供しています。申請は<b>[こちら](https://brightinitiative.com)</b>から提出できます。
