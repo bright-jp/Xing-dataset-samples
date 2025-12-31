@@ -2,7 +2,7 @@
 
 <h2>Xingソーシャルネットワークの1001件のサンプルデータセット</h2>
 
-![Xing dataset header](https://github.com/luminati-io/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
+![Xing dataset header](https://github.com/bright-jp/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
 
 1000件を超えるレコードを含むXingデータセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
