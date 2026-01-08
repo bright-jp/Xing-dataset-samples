@@ -1,4 +1,4 @@
-# Xing-dataset-samples
+# Xing データセットサンプル
 
 <h2>Xingソーシャルネットワークの1001件のサンプルデータセット</h2>
 
